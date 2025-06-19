@@ -135,11 +135,7 @@ This project uses the [Titanic - Machine Learning from Disaster](https://www.kag
 
 **Muhammad Saeed**  
 AI & Data Science Enthusiast  
-GitHub: [@your-username](https://github.com/your-username)
+
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify, and share!
