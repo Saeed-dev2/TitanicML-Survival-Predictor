@@ -1,4 +1,3 @@
-
 # 🚢 TitanicML Survival Predictor
 
 A FastAPI-powered machine learning application that predicts the survival of Titanic passengers based on their age, gender, and passenger class using a trained Random Forest model.
