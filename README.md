@@ -130,7 +130,6 @@ This project uses the [Titanic - Machine Learning from Disaster](https://www.kag
 - Evaluation: Data split into training/test using stratified sampling
 
 ---
-
 ## 👨‍💻 Author
 
 **Muhammad Saeed**  
