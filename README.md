@@ -2,7 +2,6 @@
 
 A FastAPI-powered machine learning application that predicts the survival of Titanic passengers based on their age, gender, and passenger class using a trained Random Forest model.
 
-
 ### 🧾 Web Form Interface
 ![Web Form](static/data.png)
 
