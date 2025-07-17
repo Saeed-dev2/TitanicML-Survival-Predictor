@@ -17,6 +17,7 @@ This project provides both a **web form interface** and a **REST API** for predi
 - **Passenger Class (Pclass)**
 - **Gender**
 - **Age**
+- 
 
 It uses a **Random Forest Classifier** and includes a built-in data preprocessing pipeline with `StandardScaler` and `LabelEncoder`.
 
