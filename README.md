@@ -10,6 +10,7 @@ A FastAPI-powered machine learning application that predicts the survival of Tit
 
 ---
 
+
 ## 📊 Project Overview
 
 This project provides both a **web form interface** and a **REST API** for predicting whether a Titanic passenger would survive based on:
